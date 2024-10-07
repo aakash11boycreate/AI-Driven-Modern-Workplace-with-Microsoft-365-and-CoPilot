@@ -46,5 +46,6 @@ $report | Export-Csv -Path "./M365_Report.csv" -NoTypeInformation
 
 *“For a full-scale implementation and customization, please contact me via LinkedIn.”*
 
-![image](https://github.com/user-attachments/assets/15ad7f63-630b-449f-aea0-e978236de198)
+Connect with me on Linkdin
 
+![image](https://github.com/user-attachments/assets/15ad7f63-630b-449f-aea0-e978236de198)
