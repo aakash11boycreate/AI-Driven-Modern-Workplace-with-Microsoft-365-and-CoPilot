@@ -45,3 +45,5 @@ $report | Export-Csv -Path "./M365_Report.csv" -NoTypeInformation
 - Intune compliance and security policies
 
 *“For a full-scale implementation and customization, please contact me via LinkedIn.”*
+
+
